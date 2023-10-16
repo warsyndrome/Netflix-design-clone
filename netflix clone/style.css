@@ -1,0 +1,331 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+#back {
+    background-image: url(IN-en-20230717-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#back {
+    background-color: rgba(0, 0, 0, .7);
+    background-blend-mode: multiply;
+}
+
+#navbar {
+    height: 700px;
+    width: 1423px;
+}
+
+#lang {
+    background-color: transparent;
+    color: white;
+    height: 35px;
+    width: 100px;
+    font-size: 17px;
+    margin-left: 700px;
+}
+
+.qwerty {
+    background-color: black;
+}
+
+#logo {
+
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+#sign {
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    height: 35px;
+    width: 80px;
+    margin: 20px;
+}
+
+#sign:hover {
+    background-color: rgb(182, 32, 32);
+}
+
+#tex {
+    color: aliceblue;
+    padding-left: 280px;
+    padding-top: 200px;
+    padding-bottom: 0px;
+
+}
+
+.inp {
+    color: rgb(169, 169, 169);
+
+
+}
+
+#siz {
+    height: 55px;
+    width: 382px;
+    border-radius: 7px;
+    background-color: transparent;
+    font-size: large;
+    font: bold;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-style: groove;
+    margin-bottom: 50px;
+    color: white;
+}
+
+#first {
+    background-color: black;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    color: aliceblue;
+
+}
+
+#second {
+    background-color: black;
+    color: white;
+
+}
+
+#third {
+    background-color: black;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    color: white;
+}
+
+#fourth {
+    background-color: black;
+    color: white;
+}
+
+#first-div {
+    color: white;
+}
+
+#paraone {
+    height: 169px;
+    width: 544px;
+    padding-top: 200px;
+}
+
+#paratwo {
+    height: 169px;
+    width: 544px;
+    float: right;
+    padding-top: 200px;
+}
+
+#parathree {
+    height: 169px;
+    width: 544px;
+    padding-top: 200px;
+}
+
+#parafour {
+    height: 169px;
+    width: 544px;
+    float: right;
+    padding-top: 200px;
+}
+
+#qanda {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+#ans {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+#t1 {
+    height: 60px;
+    width: 700px;
+    background-color: gray;
+    padding: 10px;
+    border: 10px solid black;
+    list-style: none;
+    color: white;
+
+}
+
+#t2 {
+    height: 60px;
+    width: 700px;
+    background-color: gray;
+    padding: 10px;
+    border: 10px solid black;
+    list-style: none;
+    color: white;
+}
+
+#t3 {
+    height: 60px;
+    width: 700px;
+    background-color: gray;
+    padding: 10px;
+    border: 10px solid black;
+    list-style: none;
+    color: white;
+}
+
+#t4 {
+    height: 60px;
+    width: 700px;
+    background-color: gray;
+    padding: 10px;
+    border: 10px solid black;
+    list-style: none;
+    color: white;
+}
+
+li {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#get {
+    height: 55px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: red;
+    color: white;
+    font-size: larger
+}
+
+#get:hover {
+    background-color: rgb(182, 32, 32);
+}
+
+#inpge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#gap1 {
+    background-color: rgb(35, 35, 35);
+    height: 10px;
+}
+
+#line {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+}
+
+#secbtn {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    font-size: 50px;
+    padding: 10px;
+}
+
+#tex1 {
+    font-size: 50px;
+    margin: 20px;
+}
+
+#tex2 {
+    margin: 20px;
+}
+
+#tex3 {
+    margin: 7px;
+}
+
+#mainfoot {
+    background-color: black;
+    height: 425px;
+    color: white;
+
+}
+
+#foot1 {
+    margin-left: 20px;
+
+}
+
+#footuldiv {
+    list-style: none;
+    text-align: center;
+}
+
+#fo1 {
+    height: 21px;
+    width: 355.27px;
+    display: flex;
+    margin: 30px;
+
+
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height: 50vh;
+    padding-top: 50px;
+}
+
+footer p {
+    padding-left: 150px;
+}
+
+.xyz {
+
+    color: white;
+}
+
+.xy {
+    color: white;
+
+}
+
+#question {
+    margin-left: 10px;
+}
+
+.x {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}
+
+.col1 {
+    margin: 50px 120px 40px 10px;
+}
+
+.col2 {
+    margin: 50px 120px 40px 10px;
+}
+
+.col3 {
+    margin: 50px 120px 40px 10px;
+}
